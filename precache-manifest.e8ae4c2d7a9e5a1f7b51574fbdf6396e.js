@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50be9cf8542e0f08f56fce998540f8b4",
+    "revision": "3135a19ca8099a17f5f2587517bc096f",
     "url": "/Algolyzer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Algolyzer/static/css/2.6e90b12a.chunk.css"
   },
   {
-    "revision": "43c39ec5d4f1c014f85c",
+    "revision": "bc076f6f21d12319ae22",
     "url": "/Algolyzer/static/css/main.fa8722bb.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Algolyzer/static/js/2.60d8573c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43c39ec5d4f1c014f85c",
-    "url": "/Algolyzer/static/js/main.c5ddd78f.chunk.js"
+    "revision": "bc076f6f21d12319ae22",
+    "url": "/Algolyzer/static/js/main.c5959aa7.chunk.js"
   },
   {
     "revision": "c5eafabe4b2314660f3de33fe2c9484b",
-    "url": "/Algolyzer/static/js/main.c5ddd78f.chunk.js.LICENSE.txt"
+    "url": "/Algolyzer/static/js/main.c5959aa7.chunk.js.LICENSE.txt"
   },
   {
     "revision": "bb64f0c407c91a0dc8b0",
