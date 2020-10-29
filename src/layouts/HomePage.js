@@ -67,11 +67,11 @@ const HomePage = () => {
               <div className="col-lg-6 pt-3 pt-lg-5 order-1 order-lg-2 d-flex justify-content-center flex-column text-center">
                 
                 <h1><strong className="brand-name text-center">Algolyzer</strong> </h1>
-                <h3 className="my-3">
-            A portal for Tech and Engineering Students
-                </h3>
+                <h6 className="my-3">
+            A portal for Engineering & Computer Science Students,tech enthusiast, competitive exam Aspirants
+                </h6>
                 <div className="mt-3">
-                 <Link to="Algolyzer" className="btn btn-md" id="b" style={{backgroundColor:"#668cff",color:"#fff",borderRadius:"30px",padding:"17px"}}> Go to Tutorials</Link>
+                 <Link to="Algolyzer" className="btn btn-lg" id="b" style={{backgroundColor:"#668cff",color:"#fff",borderRadius:"30px",paddingLeft:"30px",paddingRight:"30px",marginBottom:"10px"}}> Go to Tutorials</Link>
                 </div>
               </div>
               </div>
