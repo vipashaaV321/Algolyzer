@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Algolyzer-home/static/css/main.8ff36a60.chunk.css",
-    "main.js": "/Algolyzer-home/static/js/main.a08e61c4.chunk.js",
-    "main.js.map": "/Algolyzer-home/static/js/main.a08e61c4.chunk.js.map",
-    "runtime-main.js": "/Algolyzer-home/static/js/runtime-main.972aaca9.js",
-    "runtime-main.js.map": "/Algolyzer-home/static/js/runtime-main.972aaca9.js.map",
-    "static/css/2.6e90b12a.chunk.css": "/Algolyzer-home/static/css/2.6e90b12a.chunk.css",
-    "static/js/2.f8176250.chunk.js": "/Algolyzer-home/static/js/2.f8176250.chunk.js",
-    "static/js/2.f8176250.chunk.js.map": "/Algolyzer-home/static/js/2.f8176250.chunk.js.map",
-    "index.html": "/Algolyzer-home/index.html",
-    "precache-manifest.e9e8a7b9bf65cff8aa88acf10772e6f9.js": "/Algolyzer-home/precache-manifest.e9e8a7b9bf65cff8aa88acf10772e6f9.js",
-    "service-worker.js": "/Algolyzer-home/service-worker.js",
-    "static/css/2.6e90b12a.chunk.css.map": "/Algolyzer-home/static/css/2.6e90b12a.chunk.css.map",
-    "static/css/main.8ff36a60.chunk.css.map": "/Algolyzer-home/static/css/main.8ff36a60.chunk.css.map",
-    "static/js/2.f8176250.chunk.js.LICENSE.txt": "/Algolyzer-home/static/js/2.f8176250.chunk.js.LICENSE.txt",
-    "static/js/main.a08e61c4.chunk.js.LICENSE.txt": "/Algolyzer-home/static/js/main.a08e61c4.chunk.js.LICENSE.txt",
-    "static/media/bg5.jpg": "/Algolyzer-home/static/media/bg5.056eb058.jpg",
-    "static/media/mike.jpg": "/Algolyzer-home/static/media/mike.aab414f7.jpg",
-    "static/media/now-ui-dashboard.scss?v1.4.0": "/Algolyzer-home/static/media/nucleo-outline.8ebec31f.woff2",
-    "static/media/tsp.jpg": "/Algolyzer-home/static/media/tsp.cbe4659f.jpg"
+    "main.css": "/Algolyzer/static/css/main.fa8722bb.chunk.css",
+    "main.js": "/Algolyzer/static/js/main.c5ddd78f.chunk.js",
+    "main.js.map": "/Algolyzer/static/js/main.c5ddd78f.chunk.js.map",
+    "runtime-main.js": "/Algolyzer/static/js/runtime-main.e9c6c497.js",
+    "runtime-main.js.map": "/Algolyzer/static/js/runtime-main.e9c6c497.js.map",
+    "static/css/2.6e90b12a.chunk.css": "/Algolyzer/static/css/2.6e90b12a.chunk.css",
+    "static/js/2.60d8573c.chunk.js": "/Algolyzer/static/js/2.60d8573c.chunk.js",
+    "static/js/2.60d8573c.chunk.js.map": "/Algolyzer/static/js/2.60d8573c.chunk.js.map",
+    "index.html": "/Algolyzer/index.html",
+    "precache-manifest.06f4425ce43cac6b41e112c4e2bd7886.js": "/Algolyzer/precache-manifest.06f4425ce43cac6b41e112c4e2bd7886.js",
+    "service-worker.js": "/Algolyzer/service-worker.js",
+    "static/css/2.6e90b12a.chunk.css.map": "/Algolyzer/static/css/2.6e90b12a.chunk.css.map",
+    "static/css/main.fa8722bb.chunk.css.map": "/Algolyzer/static/css/main.fa8722bb.chunk.css.map",
+    "static/js/2.60d8573c.chunk.js.LICENSE.txt": "/Algolyzer/static/js/2.60d8573c.chunk.js.LICENSE.txt",
+    "static/js/main.c5ddd78f.chunk.js.LICENSE.txt": "/Algolyzer/static/js/main.c5ddd78f.chunk.js.LICENSE.txt",
+    "static/media/bg5.jpg": "/Algolyzer/static/media/bg5.056eb058.jpg",
+    "static/media/mike.jpg": "/Algolyzer/static/media/mike.aab414f7.jpg",
+    "static/media/now-ui-dashboard.scss?v1.4.0": "/Algolyzer/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/tsp.jpg": "/Algolyzer/static/media/tsp.cbe4659f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.972aaca9.js",
+    "static/js/runtime-main.e9c6c497.js",
     "static/css/2.6e90b12a.chunk.css",
-    "static/js/2.f8176250.chunk.js",
-    "static/css/main.8ff36a60.chunk.css",
-    "static/js/main.a08e61c4.chunk.js"
+    "static/js/2.60d8573c.chunk.js",
+    "static/css/main.fa8722bb.chunk.css",
+    "static/js/main.c5ddd78f.chunk.js"
   ]
 }
